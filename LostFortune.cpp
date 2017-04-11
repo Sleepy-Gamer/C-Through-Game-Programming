@@ -1,4 +1,5 @@
-//This is the first game from chapter one called Lost Fortunes. 
+//Chapter one
+//End of chapter game
 
 //Lost fortune
 //A personalized adventure
